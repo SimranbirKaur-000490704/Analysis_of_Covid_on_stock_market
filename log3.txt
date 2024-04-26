@@ -1,0 +1,377 @@
+* commit 25da152e6b767f1751cf8dcc9ba7fc8caef83ca8 (HEAD -> main, origin/main, origin/HEAD)
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Sun Dec 10 04:28:40 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Sun Dec 10 04:28:40 2023 -0600
+| 
+|     updated visualization 1 file - covid stocks graph
+| 
+* commit dca1b2e510524ea81dd99f850d77e20a9aae8663
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Sun Dec 10 02:06:55 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Sun Dec 10 02:06:55 2023 -0600
+| 
+|     changes to code in covid_stock_graph - 1st visual of the project
+| 
+* commit 44dbd42949121fa43cd8e0e479ede8415e86b6c7
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Sun Dec 10 01:19:46 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Sun Dec 10 01:19:46 2023 -0600
+| 
+|     created a second log file for the commits from main branch
+|   
+*   commit 1f648fd78910ca95a9b56138644839d249604cfd
+|\  Merge: 1ac7f85 5d74845
+| | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | AuthorDate: Sun Dec 10 01:16:50 2023 -0600
+| | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | CommitDate: Sun Dec 10 01:16:50 2023 -0600
+| | 
+| |     Merge branch 'develop'
+| | 
+| * commit 5d748450c1794f9373916def81c463dadecfb94c (develop)
+| | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | AuthorDate: Sun Dec 10 01:16:41 2023 -0600
+| | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | CommitDate: Sun Dec 10 01:16:41 2023 -0600
+| | 
+| |     updated the log file with latest logs added
+| | 
+* | commit 1ac7f857a1826920872f32bebfee35526c866ba5
+| | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | AuthorDate: Sun Dec 10 01:07:30 2023 -0600
+| | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | CommitDate: Sun Dec 10 01:07:30 2023 -0600
+| | 
+| |     deleted untitled outline or draft document, no longer required
+| | 
+* | commit b551f1cb79ae687141ef3c94cf32379dd626248a
+|/  Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+|   AuthorDate: Sun Dec 10 01:01:50 2023 -0600
+|   Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+|   CommitDate: Sun Dec 10 01:01:50 2023 -0600
+|   
+|       made changes to the covid_stock_graph files as well as data_analysis and data_retrieval
+| 
+* commit d53cfb3a276e54bf3472779bedbc7e1f7fc8dfbd
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Fri Dec 8 05:08:53 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Fri Dec 8 05:08:53 2023 -0600
+| 
+|     adjustment to various code in data files to correct the graph output in visual 1
+| 
+* commit fa0e6837645d8c2c7df634c6ab8fabec3d98b28d
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Fri Dec 8 02:48:36 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Fri Dec 8 02:48:36 2023 -0600
+| 
+|     updates for step 8: visualization part 1
+| 
+* commit 2fc3169eff7f468fe5444f79896773f61e8ba8e5
+| Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| AuthorDate: Fri Dec 8 01:20:16 2023 -0600
+| Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| CommitDate: Fri Dec 8 01:20:16 2023 -0600
+| 
+|     Modified some files, minor changes
+| 
+* commit 16de155b91bd52f75144445a0acd37babe88304a
+| Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| AuthorDate: Fri Dec 8 00:57:53 2023 -0600
+| Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| CommitDate: Fri Dec 8 00:57:53 2023 -0600
+| 
+|     Appended stocks data with Covid data
+| 
+* commit 6755b6e788d3e6a2d2c4abaa84caec51380c08a6
+| Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| AuthorDate: Fri Dec 8 00:55:13 2023 -0600
+| Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| CommitDate: Fri Dec 8 00:55:13 2023 -0600
+| 
+|     made some updates to the covid_visualization file
+| 
+* commit 7c941269a9c87829d7d12b3bc8cb1203c0d1aa79
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Thu Dec 7 23:27:28 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Thu Dec 7 23:27:28 2023 -0600
+| 
+|     added another stock data file (stock_data_fetching)  with revised code
+| 
+* commit 3dd3cd26256ce0f33872b17741885a3ff17e8433
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Thu Dec 7 23:00:58 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Thu Dec 7 23:00:58 2023 -0600
+| 
+|     SK covid data. changes and others to datewise data and main script
+| 
+* commit 2673ce2fadd437476996a0b9cf754497a8b3ceac
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Thu Dec 7 22:22:29 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Thu Dec 7 22:22:29 2023 -0600
+| 
+|     Code for Step5 - Saskatchewan Data
+| 
+* commit 93392958bbd1b912b9b3daa9e0e072bab3a50181
+| Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| AuthorDate: Thu Dec 7 21:59:10 2023 -0600
+| Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| CommitDate: Thu Dec 7 21:59:10 2023 -0600
+| 
+|     Added changes to datewise data retrieval code
+| 
+* commit 481a9b8d11b3031be2ccedfdbc69cdf212a5540a (origin/covid-Data-Analysis)
+| Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| AuthorDate: Thu Dec 7 21:42:59 2023 -0600
+| Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| CommitDate: Thu Dec 7 21:42:59 2023 -0600
+| 
+|     Added some code to test the data is getting aggregated
+| 
+* commit ba0bbde4c477f2b2013186994c5376c15ecc6401
+| Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| AuthorDate: Thu Dec 7 21:18:16 2023 -0600
+| Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| CommitDate: Thu Dec 7 21:18:16 2023 -0600
+| 
+|     Added code for aggregating covid confirmed and death cases
+| 
+* commit dade770d82faae61fb7b654f8387c4c1eeffe4d4
+| Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| AuthorDate: Thu Dec 7 21:11:44 2023 -0600
+| Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| CommitDate: Thu Dec 7 21:11:44 2023 -0600
+| 
+|     Added code for analysis of covid confirmed and death cases
+| 
+* commit 58d9add72b34575c5aac4fbe0e6ecdb80600b44d
+| Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| AuthorDate: Thu Dec 7 21:10:10 2023 -0600
+| Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| CommitDate: Thu Dec 7 21:10:10 2023 -0600
+| 
+|     Added code for analysis of covid confirmed and death cases
+|   
+*   commit 11b96902d38fea1a7195863297b243eff1fa40ef
+|\  Merge: 7646825 abe045b
+| | Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| | AuthorDate: Thu Dec 7 14:25:31 2023 -0600
+| | Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| | CommitDate: Thu Dec 7 14:25:31 2023 -0600
+| | 
+| |     Merge branch 'develop'
+| | 
+| * commit abe045b44d74e0130f1afd0ac6305a05b2edcbe3
+| | Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| | AuthorDate: Thu Dec 7 14:25:10 2023 -0600
+| | Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| | CommitDate: Thu Dec 7 14:25:10 2023 -0600
+| | 
+| |     created a log file to keep track of logs
+| | 
+* | commit 7646825652f2a5a82e92173b7aac2a587e7449e6
+| | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | AuthorDate: Thu Dec 7 03:57:38 2023 -0600
+| | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | CommitDate: Thu Dec 7 03:57:38 2023 -0600
+| | 
+| |     saving updates from today
+| |   
+* |   commit 5eb18d89b003ceca75188f8cab76b5ac170b04d5
+|\ \  Merge: 8829e65 df00c1b
+| | | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | AuthorDate: Thu Dec 7 02:17:49 2023 -0600
+| | | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | CommitDate: Thu Dec 7 02:17:49 2023 -0600
+| | | 
+| | |     Merge branch 'development'
+| | | 
+| * | commit df00c1b559258cd7cf26a2f1f67b1fbe11188574
+| | | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | AuthorDate: Thu Dec 7 02:17:22 2023 -0600
+| | | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | CommitDate: Thu Dec 7 02:17:22 2023 -0600
+| | | 
+| | |     three files updated: Data_loader, main_script, and datawise_data
+| | | 
+* | | commit 8829e65de4327de5ae09ee0462b4da0d03d37c6b
+|\| | Merge: 01c6a54 b6222be
+| | | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | AuthorDate: Thu Dec 7 01:54:56 2023 -0600
+| | | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | CommitDate: Thu Dec 7 01:54:56 2023 -0600
+| | | 
+| | |     Merge branch 'development'
+| | | 
+| * | commit b6222beb9cd8fd4d6f44bb29bda633760de8cd55
+| | | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | AuthorDate: Thu Dec 7 01:54:23 2023 -0600
+| | | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | CommitDate: Thu Dec 7 01:54:23 2023 -0600
+| | | 
+| | |     updated dictionary step by creating datewise dataframes
+| | |   
+* | |   commit 01c6a54cba5add8d7eb6609ad7ea0116374c0fd5
+|\ \ \  Merge: 80906a8 35d0069
+| | | | Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | | | AuthorDate: Thu Dec 7 00:53:45 2023 -0600
+| | | | Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | | | CommitDate: Thu Dec 7 00:53:45 2023 -0600
+| | | | 
+| | | |     Merge branch 'main' of https://github.com/sagarpatel-491515/final_project_group_7
+| | | | 
+| * | | commit 35d0069739118e9d4a45bbcfe5586accf5ee7704
+| |\| | Merge: 9d02c47 7d31817
+| | | | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | | AuthorDate: Thu Dec 7 00:50:31 2023 -0600
+| | | | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | | CommitDate: Thu Dec 7 00:50:31 2023 -0600
+| | | | 
+| | | |     Merge branch 'development'
+| | | | 
+| | * | commit 7d31817f42695ad7ae79547f9f17f4dcb51ba234
+| | | | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | | AuthorDate: Thu Dec 7 00:50:00 2023 -0600
+| | | | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | | | CommitDate: Thu Dec 7 00:50:00 2023 -0600
+| | | | 
+| | | |     Step 4 file of the project. Calling the method from global_covid_data_analysis, creating a dictionary to store the data in multiple dataframes datewise.
+| | | | 
+* | | | commit 80906a8d1c0fe69a769d826328297214e989ed0f
+|/ / /  Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | |   AuthorDate: Thu Dec 7 00:52:30 2023 -0600
+| | |   Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | |   CommitDate: Thu Dec 7 00:52:30 2023 -0600
+| | |   
+| | |       Update stock_data_retrieval.py - Add a meaningful message here
+| | | 
+* | | commit 9d02c47475f44456560f9cd1c5aa686ae3dc14ec
+|/ /  Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| |   AuthorDate: Thu Dec 7 00:08:25 2023 -0600
+| |   Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| |   CommitDate: Thu Dec 7 00:08:25 2023 -0600
+| |   
+| |       Update main_script.py, stock_data_retrieval.py, stock_data_analysis.py, covid_visualization.py
+| | 
+* | commit 783d162e1cc39ae076395a1becbda15fc4143133
+| | Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | AuthorDate: Wed Dec 6 23:24:56 2023 -0600
+| | Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | CommitDate: Wed Dec 6 23:24:56 2023 -0600
+| | 
+| |     Resolve conflicts
+| |   
+* |   commit 86b8e26a7597e3a34d49737adaafb1a03d3799b2
+|\ \  Merge: 41c580a 6bcd0ed
+| |/  Author:     DhirajKaushal489367 <152195745+DhirajKaushal489367@users.noreply.github.com>
+|/|   AuthorDate: Wed Dec 6 23:20:56 2023 -0600
+| |   Commit:     GitHub <noreply@github.com>
+| |   CommitDate: Wed Dec 6 23:20:56 2023 -0600
+| |   
+| |       Merge pull request #2 from sagarpatel-491515/feature_branch
+| |       
+| |       Feature branch
+| | 
+| * commit 6bcd0edc3e950faf61c8d057dc2610543b133e42 (origin/feature_branch)
+| | Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | AuthorDate: Wed Dec 6 23:17:28 2023 -0600
+| | Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | CommitDate: Wed Dec 6 23:17:28 2023 -0600
+| | 
+| |     Removing unwanted files from tracking
+| | 
+| * commit 6126ce414c94cb4782ca8e42b8c3137000c9bbff
+| | Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | AuthorDate: Wed Dec 6 23:15:53 2023 -0600
+| | Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | CommitDate: Wed Dec 6 23:15:53 2023 -0600
+| | 
+| |     Adding updated COVID-19 visualization script
+| | 
+| * commit 3c2214cc7623af2fced0ca99d86d7fe10ee590eb
+| | Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | AuthorDate: Wed Dec 6 21:24:15 2023 -0600
+| | Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | CommitDate: Wed Dec 6 21:24:15 2023 -0600
+| | 
+| |     Remove unnecessary files
+| |   
+| *   commit 24cae550740f3a9b923facb4769e64f232af0aa5
+| |\  Merge: f91bcc7 41c580a
+| |/  Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+|/|   AuthorDate: Wed Dec 6 21:18:45 2023 -0600
+| |   Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| |   CommitDate: Wed Dec 6 21:18:45 2023 -0600
+| |   
+| |       Merge branch 'main' into feature_branch
+| | 
+* | commit 41c580ad882ce9e4b6a9eaafc3f40901fae59723
+| | Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| | AuthorDate: Wed Dec 6 01:55:25 2023 -0600
+| | Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| | CommitDate: Wed Dec 6 01:55:25 2023 -0600
+| | 
+| |     Added Concatenate and aggregate functions inside global_covid_data_analysis.py file
+| | 
+* | commit 1f7479853a3ba60276bdd48890466d6cbfc9f219
+| | Author:     Simranbir Kaur <0873@saskpolytech.ca>
+| | AuthorDate: Tue Dec 5 23:51:54 2023 -0600
+| | Commit:     Simranbir Kaur <0873@saskpolytech.ca>
+| | CommitDate: Tue Dec 5 23:51:54 2023 -0600
+| | 
+| |     Added a basic structure of the project with data fetching and data transformation
+| | 
+* | commit d5a76cf2f7aad4c7f627e610729c7853c295f7c8
+| | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | AuthorDate: Tue Dec 5 16:13:04 2023 -0600
+| | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | CommitDate: Tue Dec 5 16:13:04 2023 -0600
+| | 
+| |     Adding a basic structure of the project
+| | 
+* | commit 9822d70291a051d1a4d9e57c8919ac9bdb5931cc
+| | Author:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | AuthorDate: Tue Dec 5 02:42:26 2023 -0600
+| | Commit:     Sagar Umeshkumar Patel <patel1684@saskpolytech.ca>
+| | CommitDate: Tue Dec 5 02:42:26 2023 -0600
+| | 
+| |     test
+| | 
+| * commit f91bcc7490c9bedd6373c238fcdd070cc5d13979
+| | Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | AuthorDate: Wed Dec 6 18:59:20 2023 -0600
+| | Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+| | CommitDate: Wed Dec 6 18:59:20 2023 -0600
+| | 
+| |     Add covid_visualization.py and stock_data_analysis.py
+| | 
+| * commit 8947b948645e5fd77e910e7c0525aeed86424f9c
+|/  Author:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+|   AuthorDate: Wed Dec 6 08:17:32 2023 -0600
+|   Commit:     Dhiraj Kaushal <kaushal9537@saskpolytech.ca>
+|   CommitDate: Wed Dec 6 08:17:32 2023 -0600
+|   
+|       Complete initial scripts for main functionality and data analysis
+| 
+* commit cd342150ef92bb175a54bc3d8df62fc056fd7258
+| Author:     sagarpatel-491515 <152195851+sagarpatel-491515@users.noreply.github.com>
+| AuthorDate: Mon Dec 4 09:18:47 2023 -0600
+| Commit:     GitHub <noreply@github.com>
+| CommitDate: Mon Dec 4 09:18:47 2023 -0600
+| 
+|     Update README.md
+| 
+* commit 694c50e2cb2d17873b31760643adf1c274ff4b90
+  Author:     sagarpatel-491515 <152195851+sagarpatel-491515@users.noreply.github.com>
+  AuthorDate: Mon Dec 4 09:16:13 2023 -0600
+  Commit:     GitHub <noreply@github.com>
+  CommitDate: Mon Dec 4 09:16:13 2023 -0600
+  
+      Initial commit
